@@ -32,5 +32,8 @@ some CSS file for beautify the page.
 
 If you want to add any page i recommend you to create update feature, i have made update database in UserRepository. 
 
+Notes : DataBase you can use sql query in sql.txt 
+![image](https://user-images.githubusercontent.com/113107463/229275402-04abcc2c-1a7a-4827-9b4c-1bb7a287db49.png)
+
 
 
